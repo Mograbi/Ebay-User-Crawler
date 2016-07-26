@@ -1,0 +1,16 @@
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\bin\Release\EbayCrawlerWPF_2.exe.config
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\bin\Release\EbayCrawlerWPF_2.exe
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\bin\Release\EbayCrawlerWPF_2.pdb
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\bin\Release\HtmlAgilityPack.dll
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\bin\Release\HtmlAgilityPack.xml
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\MainWindow.baml
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\MainWindow.g.cs
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\App.g.cs
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2_MarkupCompile.cache
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2.g.resources
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2.Properties.Resources.resources
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2.csproj.GenerateResource.Cache
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2.exe
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2.pdb
+C:\Users\Moawiya\Documents\Personal Projects\EbayCrawlerWPF_2\EbayCrawlerWPF_2\obj\Release\EbayCrawlerWPF_2.csprojResolveAssemblyReference.cache
